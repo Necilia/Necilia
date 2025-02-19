@@ -18,5 +18,5 @@ Olá, olá (:
 **Vamos aprender juntos!**  😎
 
 
-![Profile Visitor Count](https://komarev.com/ghpvc/?username=Necilia&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Necilia&color=blue&style=flat-square)
 
