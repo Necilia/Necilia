@@ -15,8 +15,4 @@ Olá, olá (:
 * Acredito que a programação é uma forma de arte e quero usar minhas habilidades para construir projetos incríveis. 
 
 
-**Vamos aprender juntos!**  😎
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Necilia&color=blue&style=flat-square)
 
