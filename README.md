@@ -1,17 +1,15 @@
-## ☕ Developer in Training 🚀 
+ ## ☕ Desenvolvedora em Treinamento 🚀
+Olá, olá! (:)
 
-Hello, hello!  (:
+Eu sou Karen e estou embarcando nesta jornada incrível na programação. 💻
 
-I'm Karen, and I'm embarking on this incredible journey into programming. 💻
+**O que estou aprendendo:**
 
+* **Front-end:** HTML, CSS e JavaScript
+   *Construindo websites e interfaces cada vez mais interativas! ✨
+* **Explorando:** Eu amo aprender coisas novas e estou sempre procurando por novos desafios.
 
-**What I'm Learning:**
+**Sobre Mim:**
 
-* **Front-end:** HTML, CSS e JavaScript 
-  * Building websites and increasingly interactive interfaces! ✨ 
-* **Exploring:** I love learning new things and am Always looking for new challenges. 
-
-**About Me:**
-* Passionate about coffee, cats, and creating things from scratch. 🐈 ☕ 💻
-* I believe programming is a form of art, and I want to use my skills to build amazing projects! 
-
+*Apaixonada por café, gatos e criar coisas do zero. 🐈 ☕ 💻
+*Acredito que programar é uma forma de arte e quero usar minhas habilidades para construir projetos incríveis!
