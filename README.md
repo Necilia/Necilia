@@ -1,5 +1,5 @@
  ## ☕ Desenvolvedora em Treinamento 🚀
-Olá, olá! (:)
+Olá, olá! (:
 
 Eu sou Karen e estou embarcando nesta jornada incrível na programação. 💻
 
